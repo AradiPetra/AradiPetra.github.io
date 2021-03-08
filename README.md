@@ -1,2 +1,2 @@
-# aradipetra.github.io
+# AradiPetra.github.io
 # README.md
